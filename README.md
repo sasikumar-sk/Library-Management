@@ -1,5 +1,5 @@
 # Library-Management
-Basic Library Management System using Mysql
+Basic Library Management System using Mysql and Python
 
 Library Management System is a system that maintains the information about the books
 present in the library, their authors, the members of the library to whom books are issued,
@@ -21,12 +21,13 @@ Functions used
 Software Tools :
         Visual Studio code editor
         XAMPP (mysql)
-
+---------------------------------------------------------------------------------
 Database and Data Tables
         library (DB)
         Book (Table)
         Member (Table)
         Transaction(Table)
+----------------------------------------------------------------------------------
 Navigation Structure
         Add Books (To add new book )
         Add Member ( To addning new member/ office staff )
